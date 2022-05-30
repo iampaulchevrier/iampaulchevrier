@@ -2,7 +2,7 @@
 # 👋 Hi there
 I am currently studying **UI Design** to become a **UX/UI Designer**.
 
-I am currently looking for an alternation in Rouen. 👀
+I am currently looking for an alternation job in Rouen. 👀
 
 ## 📖 About me
 - 💼 I'm currently working at [FIS](https://www.fis.fr/)
