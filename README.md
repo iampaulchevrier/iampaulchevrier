@@ -1,5 +1,5 @@
 ![Image](https://github.com/iampaulchevrier/iampaulchevrier/blob/main/banner.jpg)
-# 👋 Hi there
+# 👋 Hey there!
 I am currently studying **UI Design** to become a **UX/UI Designer**.
 
 I am currently looking for an alternation job in Rouen. 👀
