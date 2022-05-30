@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hi there
+I am currently studying **UI Design** to become a **UX/UI Designer**.
 
-<!--
-**iampaulchevrier/iampaulchevrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently looking for an alternation in Rouen. 👀
 
-Here are some ideas to get you started:
+### 📖 About me
+- 💼 I'm currently working at [FIS](https://www.fis.fr/)
+- 📌 I'm based in **Rouen** and **Le Havre**
+- 🌱 I'm curently learning **TailWind CSS**, **React**, and **NextJS**
+- ✨ I enjoy coding in `.css` and doing **UX Research**
+- 💬 Don't hesitate to ping me for any question about design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+- [LinkedIn](https://www.linkedin.com/in/iampaulchevrier/)
+- [Twitter](https://twitter.com/iampaulchevrier)
