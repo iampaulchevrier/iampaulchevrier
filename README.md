@@ -9,8 +9,9 @@ I am currently looking for an alternation job in Rouen. 👀
 - 📌 I'm based in **Rouen** and **Le Havre**
 - 🌱 I'm curently learning **TailWind CSS**, **React**, and **NextJS**
 - ✨ I enjoy coding in `.css` and doing **UX Research**
-- 💬 Don't hesitate to ping me for any question about design
 
 ## 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/iampaulchevrier/)
 - [Twitter](https://twitter.com/iampaulchevrier)
+
+🔔 Don't hesitate to ping me if you have any question
