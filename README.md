@@ -14,4 +14,4 @@ I am currently looking for an alternation job in Rouen. 👀
 - [LinkedIn](https://www.linkedin.com/in/iampaulchevrier/)
 - [Twitter](https://twitter.com/iampaulchevrier)
 
-🔔 Don't hesitate to ping me if you have any question!
+🔔 Don't hesitate to ping me if you have any question.
