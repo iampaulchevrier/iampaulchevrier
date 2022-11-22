@@ -1,6 +1,6 @@
 ![Image](https://github.com/iampaulchevrier/iampaulchevrier/blob/main/banner.jpg)
 ## 👋 Hey there!
-I am currently studying **Product Management** to become a **UX/UI Designer**.
+I am currently studying design to become a **UX/UI Designer**.
 
 I am currently looking for an alternation job in Le Havre, Paris or Rouen. 👀
 
