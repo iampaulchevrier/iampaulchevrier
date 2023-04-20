@@ -2,7 +2,7 @@
 ## 👋 Hey there!
 I am currently studying design to become a **UX/UI Designer**.
 
-I am currently looking for an alternation job in Le Havre, Paris or Rouen. 👀
+I am currently looking for an apprenticeship job in Le Havre or Rouen. 👀
 
 ### 📖 About me
 - 💼 I'm currently working at [PIXELL](https://www.pixell.fr/).
