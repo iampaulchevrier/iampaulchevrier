@@ -7,8 +7,8 @@ I am currently looking for an alternation job in Le Havre, Paris or Rouen. 👀
 ### 📖 About me
 - 💼 I'm currently working at [PIXELL](https://www.pixell.fr/).
 - 📌 I'm based in **Rouen** and **Le Havre**.
-- 🌱 I'm curently learning **TailWind CSS**, **React**, and **Next.js**.
-- 💄 I enjoy coding in `.css` and doing **UX Research**.
+- 🧠 I'm curently learning **TailWind CSS**, **React**, and **Next.js**.
+- 💄 I enjoy coding in `.css`, doing **UX Research** and using **Figma**.
 
 ### 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/iampaulchevrier/)
