@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/iampaulchevrier" target="_blank">
+  <a href="https://twitter.com/iampaulchevrier" target="blank">
     <img src="https://img.shields.io/twitter/follow/iampaulchevrier?logo=twitter&style=for-the-badge" alt="iampaulchevrier" />
   </a>
 </p>
