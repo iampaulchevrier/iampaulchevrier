@@ -18,11 +18,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/iampaulchevrier/portfolio)
+- 🔭 I’m currently working on **[my portfolio](https://github.com/iampaulchevrier/portfolio)**
 
 - 🌱 I’m currently learning **React and NexJS**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/iampaulchevrier?tab=repositories)
+- 👨‍💻 All of my projects are available **[here](https://github.com/iampaulchevrier?tab=repositories)**
 
 - 💬 Ask me about **UX/UI Design**
 
