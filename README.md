@@ -1,4 +1,3 @@
-![Image](https://github.com/iampaulchevrier/iampaulchevrier/blob/main/banner.jpg)
 <h1 align="center">👋 Hi, I'm Paul Chevrier</h1>
 <h3 align="center">A passionate UX/UI Designer from Rouen</h3>
 
